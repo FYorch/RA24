@@ -1,4 +1,5 @@
 <?php
+//Jorge Jrv Juarrez villarreal
 
 include("conexion.php");
 $con=conectar();
